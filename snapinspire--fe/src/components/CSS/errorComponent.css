@@ -1,0 +1,18 @@
+.errors {
+  color: #e21818;
+
+  padding: 1em 1.8em;
+
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  font-size: 1.2rem;
+
+  /* border: 1px solid #e21818; */
+}
+
+.err-icon {
+  height: 35px;
+  width: 35px;
+}

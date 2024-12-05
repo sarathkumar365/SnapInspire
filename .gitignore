@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules
+
+# Ignore all jpg files in public/images folder
+SnapInspire---be/public/images/*.jpg
+
+
+# Environment variables
+.env
+
+# Build directories
+/dist/
+/build/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Dependency directories for package managers
+/pnpm-lock.yaml
+/yarn.lock
+/package-lock.json
+
+# Optional: for server-side (if applicable)
+/coverage/

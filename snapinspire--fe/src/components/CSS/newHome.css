@@ -1,0 +1,15 @@
+.home--posts {
+    /* border: 1px solid red; */
+
+    width: 100%;
+    padding: 1em 1em;
+
+    flex-direction: column;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
